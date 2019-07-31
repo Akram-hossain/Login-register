@@ -1,0 +1,23 @@
+.nav_part .navbar{
+	background: #F5F5F4;
+	border: 1px solid #ccc;
+	border-radius: 0px 0px 5px 5px;
+	margin-bottom: 10px;
+}
+.footersec .bckg{
+	background: #F5F5F4;
+	border: 1px solid #ccc;
+	border-radius: 5px 5px 0px 0px;
+	margin-top: 25px;
+}
+.footersec .bckg p{
+	font-size: 24px;
+}
+.table {
+	border: 2px solid #E2E2E2;	
+}
+.table td, .table th {
+	padding: 6px;
+	vertical-align: center !important;
+	border-top: 1px solid #dee2e6;
+}
